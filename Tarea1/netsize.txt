@@ -1,1 +1,4 @@
-
+#Verificar el Gitbash resultado:
+#El ńumero de columnas: 80
+#El numero de filas: 97 n1.txt
+#Fin de ejecucion
