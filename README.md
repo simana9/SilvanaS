@@ -1,7 +1,8 @@
 # Ejercicio 1.10.3
 PLANT POLLINATOR NETWORKS
 Saavedra and Stouffer 2013 studied several plant polllinator
-1.Can be found in the directory cd /Documents/GBI/CSB/unix/data/Saavedra2013
+Can be found in the directory
+cd /Documents/GBI/CSB/unix/data/Saavedra2013
 ## Ejercicio 1 
 Write a script that takes one of these files and determines the number of rows and columns
 Escribir en el terminal cat n1.txt; se imprime el contenido Saavedra2013 echo "El ńumero de columnas es:" ; head -n1 n1.txt | grep -o " " | wc -l ; echo "El numero de filas es:" ; wc -l n1.txt; echo "Fin de la ejecucion" #Como resultado final #El ńumero de columnas es: 80 #El numero de filas es: 97 n1.txt #Fin de ejecución
